@@ -40,4 +40,29 @@ div:nth-of-type(3) p:nth-child(2) em:nth-child(1) {
     color: seashell;
     font-size: 25px;
 }
+/* Bonus */
+/* 1 */
+input[type="checkbox"]:checked {
+    margin-left: 40px;
+}
 
+/* 2 */
+label {
+    text-transform: uppercase;
+}
+
+/* 3 */
+#important::first-letter {
+    color: lime; 
+    font-size: 90px;
+}
+
+/* 4 */
+h1:hover {
+    color: navy;
+}
+
+/* 5 */
+a:visited {
+    color: silver;
+}
